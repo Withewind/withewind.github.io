@@ -1,0 +1,12 @@
+---
+title: Hat Patches
+subtitle: Embroidered Woven Chenille PVC
+layout: default
+modal-id: 3
+date: 2017-06-07
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+description: For hat on a variety of material patches, embroidery, PVC, 3D and so on
+
+---
