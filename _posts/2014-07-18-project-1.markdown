@@ -1,6 +1,6 @@
 ---
 title: Clothing Patches
-subtitle: Website Design
+subtitle: Applicable to all kinds of clothing products
 layout: default
 modal-id: 1
 date: 2014-07-18
