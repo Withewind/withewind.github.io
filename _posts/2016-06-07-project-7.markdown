@@ -1,7 +1,8 @@
+---
 title: Othter Patches
 subtitle: Embroidered Woven Chenille PVC
 layout: default
-modal-id: 1
+modal-id: 7
 date: 2016-06-7
 img: dreams.png
 thumbnail: dreams-thumbnail.png
