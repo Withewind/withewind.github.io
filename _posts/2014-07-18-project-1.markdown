@@ -1,9 +1,9 @@
 ---
 title: Clothing Patches
-subtitle: Applicable to all kinds of clothing products
+subtitle: Embroidered Woven Chenille PVC
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2016-06-7
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
