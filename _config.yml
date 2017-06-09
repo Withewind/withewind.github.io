@@ -50,8 +50,8 @@ social:
     url: http://pinterest.com
   - title: instagram 
     url: http://instagram.com
-  - title: github
-    url: http://github.com/jekyll
+  - title: google+
+    url: http://plus.google.com
 
 # Postal address (add as many lines as necessary)
 address:
