@@ -11,17 +11,10 @@ people:
   pic: xiuhuaji
   position: Machine production
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
+- name: Laser cut
+  pic: laser_cut
+  position: Laser cut
+  
 - name: Diana Petersen
   pic: 3
   position: Lead Developer
