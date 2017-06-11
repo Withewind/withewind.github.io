@@ -4,8 +4,8 @@ subtitle: Embroidered Woven Chenille PVC
 layout: default
 modal-id: 2
 date: 2016-06-7
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: bags_2.jpg
+thumbnail: bags_1.jpg
 alt: image-alt
 description: For bags on a variety of material patches, embroidery,Woven,Chenille,PVC and so on
 
