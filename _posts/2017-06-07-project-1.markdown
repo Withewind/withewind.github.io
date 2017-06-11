@@ -4,8 +4,8 @@ subtitle: Embroidered Woven Chenille PVC
 layout: default
 modal-id: 1
 date: 2016-06-7
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: clothing_2.jpg
+thumbnail: clothing_1.jpg
 alt: image-alt
 description: For clothing on a variety of material patches, embroidery, PVC, 3D and so on
 
