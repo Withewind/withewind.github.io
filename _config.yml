@@ -9,15 +9,15 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Machine production
   pic: xiuhuaji
-  position: Machine production
+  position: Efficient and mass production
 
 - name: Laser cut
   pic: laser_cut
-  position: Laser cut
+  position: Uniform cutting, uniform quality
   
 - name: Hand crafted
-  pic: Hand_crafted
-  position: Hand crafted
+  pic: hand_crafted
+  position: Complex and diverse processes， more artistic
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
