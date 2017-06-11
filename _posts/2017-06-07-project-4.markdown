@@ -4,8 +4,8 @@ subtitle: Embroidered Woven Chenille PVC
 layout: default
 modal-id: 4
 date: 2017-06-07
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: footwear_2.jpg
+thumbnail: footwear_1.jpg
 alt: image-alt
 description: For footwear on a variety of material patches, embroidery, PVC, 3D and so on
 ---
