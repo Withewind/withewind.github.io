@@ -3,7 +3,7 @@ title: Hat Patches
 subtitle: Embroidered Woven Chenille PVC
 layout: default
 modal-id: 3
-date: 2017-06-07
+date: 2017-06-011
 img: hat_2.jpg
 thumbnail: hat_1.jpg
 alt: image-alt
