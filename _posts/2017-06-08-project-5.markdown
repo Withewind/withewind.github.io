@@ -7,6 +7,5 @@ date: 2017-06-08
 img: Home_Textiles_2.jpg
 thumbnail: Home_Textiles_1.jpg
 alt: image-alt
-description: For home textiles on a variety of material patches, embroidery, PVC, 3D and so on
-
+description: For home textiles on a variety of material patches, with embroidery,Woven,Chenille,PVC and so on
 ---
