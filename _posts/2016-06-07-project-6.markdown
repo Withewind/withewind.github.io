@@ -4,8 +4,8 @@ subtitle: Embroidered Woven Chenille PVC
 layout: default
 modal-id: 6
 date: 2017-06-07
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: Home_Textiles_2.jpg
+thumbnail: Home_Textiles_1.jpg
 alt: image-alt
 description: For home textiles on a variety of material patches, embroidery, PVC, 3D and so on
 
