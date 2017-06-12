@@ -7,6 +7,6 @@ date: 2017-06-10
 img: hat_2.jpg
 thumbnail: hat_1.jpg
 alt: image-alt
-description: For hat on a variety of material patches, embroidery, PVC, 3D and so on
+description: For hat on a variety of material patches, with embroidery,Woven,Chenille,PVC and so on
 
 ---
