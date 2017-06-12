@@ -2,8 +2,8 @@
 title: Home Textiles Patches
 subtitle: Embroidered Woven Chenille PVC
 layout: default
-modal-id: 6
-date: 2017-06-07
+modal-id: 5
+date: 2017-06-08
 img: Home_Textiles_2.jpg
 thumbnail: Home_Textiles_1.jpg
 alt: image-alt
