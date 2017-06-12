@@ -7,6 +7,6 @@ date: 2017-06-07
 img: phone_1.jpg
 thumbnail: shipin_1.jpg
 alt: image-alt
-description:  For Other types of patches,such as Mobile phone shell,the accessories，with embroidery, PVC, 3D and so on
+description:  For Other types of patches,such as Mobile phone shell,the accessories，with embroidery, woven, PVC, 3D and so on
 
 ---
