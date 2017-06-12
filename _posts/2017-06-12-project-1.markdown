@@ -7,6 +7,6 @@ date: 2017-06-12
 img: clothing_2.jpg
 thumbnail: clothing_1.jpg
 alt: image-alt
-description: For clothing on a variety of material patches, embroidery, PVC, 3D and so on
+description: For clothing on a variety of material patches, with embroidery, PVC, 3D and so on
 
 ---
