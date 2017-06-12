@@ -3,7 +3,7 @@ title: Bags Patches
 subtitle: Embroidered Woven Chenille PVC
 layout: default
 modal-id: 2
-date: 2016-06-7
+date: 2017-06-11
 img: bags_2.jpg
 thumbnail: bags_1.jpg
 alt: image-alt
