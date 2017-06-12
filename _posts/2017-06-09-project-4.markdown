@@ -7,5 +7,5 @@ date: 2017-06-09
 img: footwear_2.jpg
 thumbnail: footwear_1.jpg
 alt: image-alt
-description: For footwear on a variety of material patches, embroidery, PVC, 3D and so on
+description: For footwear on a variety of material patches, with embroidery,Woven,Chenille,PVC and so on
 ---
