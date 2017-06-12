@@ -1,11 +1,11 @@
 ---
-title: Chair Patches
+title: Other Patches
 subtitle: Embroidered Woven Chenille PVC
 layout: default
 modal-id: 5
 date: 2017-06-07
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: phone_1.jpg
+thumbnail: shipin_1.jpg
 alt: image-alt
 description:  For Chair on a variety of material patches, embroidery, PVC, 3D and so on
 
