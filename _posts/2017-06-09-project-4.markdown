@@ -3,7 +3,7 @@ title: Footwear Patches
 subtitle: Embroidered Woven Chenille PVC
 layout: default
 modal-id: 4
-date: 2017-06-07
+date: 2017-06-09
 img: footwear_2.jpg
 thumbnail: footwear_1.jpg
 alt: image-alt
